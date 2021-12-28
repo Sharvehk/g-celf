@@ -1,0 +1,53 @@
+.body_background{
+    text-align: center;
+    background-color: rgb(27, 24, 24);
+}
+#backgroud{
+    background-image: url("background.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.white{
+    color: whitesmoke;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.black{
+    background-color: black;
+}
+
+.hover_white{
+    font-family:sans-serif;
+    font-size: 15px;
+    display: inline;
+}
+
+.hover_white:hover{
+ font-size: 20px;
+ color:whitesmoke;
+}
+
+.contact{
+    background-color: rgb(27, 24, 24);
+}
+
+.contact {
+    color: whitesmoke;
+}
+
+#myNavbar{
+    font-size: 15px;
+}
+
+#mycarousel{
+    height: 500px;
+}
+
+.carousel-inner{
+    text-align: center !important;
+    margin: auto;
+}
